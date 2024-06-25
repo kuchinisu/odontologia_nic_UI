@@ -1,0 +1,11 @@
+export const MEXICANA = 'mexicana';
+export const ESTADOUNIDENSE = 'estadounidense';
+export const HOMBRE = 'hombre';
+export const MUJER = 'mujer';
+export const SIN_ESPECIFICAR = 'SIN_ESPECIFICAR';
+export const VIGENTE_SIN_TRATAMIENTO ='vigente sin tratamiento';
+export const EN_TRATAMIENTO ='en tratamiento';
+export const TRATAMIENTO_TERMINADO = 'tratamiento terminado';
+export const TRATAMIENTO_SUSPENDIDO = 'tratamiento suspendido';
+export const IRREBERSIBLE_CON_INTENTO_DE_TRATAMIENTO = 'irrebersible con intento de tratamiento';
+export const IRREBERSIBLE_SIN_INTENTO_DE_TRATAMIENTO = 'irrebersible sin intento de tratamiento';
